@@ -13,7 +13,7 @@
 </p>
 <p> </p>
 
-## Snake eating github contributions
+## Snake eating contributions on GitHub
 
 ![Snake animation](https://raw.githubusercontent.com/TunahanGezer/TunahanGezer/output/github-contribution-grid-snake-dark.svg)
 
