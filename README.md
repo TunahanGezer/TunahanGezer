@@ -1,5 +1,5 @@
 ## Hi there 👋
-[LinkedIn](https://linkedin.com/in/tunahan-gezer)
+[LinkedIn](https://linkedin.com/in/tunahangezer)
 <!--
 **TunahanGezer/TunahanGezer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
