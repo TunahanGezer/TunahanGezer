@@ -13,7 +13,8 @@
   
 </p>
 
-![snake animation](https://github.com/TunahanGezer/TunahanGezer/raw/output/github-contribution-grid-snake2.svg)
+![snake animation](https://TunahanGezer.github.io/TunahanGezer/github-contribution-grid-snake2.svg)
+
 
 
 
