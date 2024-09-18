@@ -1,4 +1,8 @@
 ## Hi there 👋
+
+![Python](https://img.shields.io/badge/Language-Python-blue)
+![ESP32](https://img.shields.io/badge/MCU-ESP32-lightgrey)
+
 [LinkedIn](https://linkedin.com/in/tunahangezer)
 <!--
 **TunahanGezer/TunahanGezer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
