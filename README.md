@@ -2,7 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 ![ESP32](https://img.shields.io/badge/MCU-ESP32-lightgrey)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF5733&lines=Merhaba%2C+Ben+Tunahan+Gezer!;Hi there 👋)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF5733&lines=I'm+Tunahan+Gezer!;Hi+there!+👋)
+
 
 [LinkedIn](https://linkedin.com/in/tunahangezer)
 <!--
