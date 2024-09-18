@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 ![ESP32](https://img.shields.io/badge/MCU-ESP32-lightgrey)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+
 
 [LinkedIn](https://linkedin.com/in/tunahangezer)
 <!--
