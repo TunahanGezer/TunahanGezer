@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://x.com/GezerTunahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GezerTunahan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tunahangezer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tunahangezer/" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tunahangezer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tunahangezer/" height="30" width="40" /></a>
+<a href="https://tunahangezer.pythonanywhere.com/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Tunahan Gezer Website" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
